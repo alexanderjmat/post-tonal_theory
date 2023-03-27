@@ -1,0 +1,15 @@
+{
+  "name": "post-tonal_theory",
+  "version": "1.0.0",
+  "description": "A JavaScript library for computing various techniques used in post-tonal music analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "AJ Matula",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "supertest": "^6.3.3"
+  }
+}
