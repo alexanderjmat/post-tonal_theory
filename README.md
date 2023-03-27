@@ -4,7 +4,7 @@ A simple JavaScript library for post-tonal music theory analysis, focusing on pi
 ## Installation
 To install the library, clone the repository and run npm install in the project folder.
 ```
-git clone https://github.com/yourusername/post-tonal_theory.git
+git clone https://github.com/alexanderjm/post-tonal_theory.git
 cd post-tonal_theory
 npm install
 ```
